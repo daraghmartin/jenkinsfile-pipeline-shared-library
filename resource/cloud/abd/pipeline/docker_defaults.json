@@ -1,0 +1,10 @@
+{
+  "registry" :  null,
+  "hub_registry" :  null,
+  "http_proxy" :  null,
+  "no_proxy" : null,
+  "container_repo" : null,
+  "execution_node" :  null,
+  "build_args" : { },
+  "tags_to_keep": []
+}

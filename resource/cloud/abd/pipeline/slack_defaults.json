@@ -1,0 +1,9 @@
+{
+  "slack_url": "https://hooks.slack.com/services/xx/yy",
+  "channel": "monitoring",
+  "icon_emoji": ":robot_face:",
+  "username": "jenkinsbot",
+  "proxy_host": null,
+  "proxy_port": null
+}
+
